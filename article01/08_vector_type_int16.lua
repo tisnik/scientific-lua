@@ -3,6 +3,7 @@
 -- https://www.root.cz/serialy/programovaci-jazyk-lua/
 --
 -- Úvodní článek o knihovně SciLua
+-- https://www.root.cz/clanky/predstaveni-projektu-scilua/
 --
 -- Demonstrační příklad číslo 8:
 -- Specifikace typů prvků vektoru: 16bitová celá čísla
