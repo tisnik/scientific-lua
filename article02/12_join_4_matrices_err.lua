@@ -3,6 +3,7 @@
 -- https://www.root.cz/serialy/programovaci-jazyk-lua/
 --
 -- Manipulace s vektory a maticemi
+-- https://www.root.cz/clanky/manipulace-s-vektory-a-maticemi-v-projektu-scilua/
 --
 -- Demonstrační příklad číslo 12:
 -- Pokus o spojení čtyř matic funkcí join
